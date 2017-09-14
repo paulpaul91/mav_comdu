@@ -1,0 +1,7 @@
+std_msgs/Header header
+ImageFeatureV desired_v_position
+ImageFeatureV desired_v_velocity
+ImageFeatureV desired_v_acceleration
+ImageFeatureV desired_v_jerk
+ImageFeatureV desired_v_snap
+CommandArmServoAngle desired_arm_rad
